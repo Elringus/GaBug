@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3039270,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"GameAnalytics" : "UE4Editor-GameAnalytics.dll",
+		"GameAnalyticsEditor" : "UE4Editor-GameAnalyticsEditor.dll"
+	}
+}
